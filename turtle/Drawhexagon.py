@@ -7,10 +7,4 @@ for i in range(6):
     t1.fd(100)
     t1.left(60)
 t1.end_fill()
-t1.color('blue', 'pink')
-t1.begin_fill()
-for i in range(6):
-    t1.fd(100)
-    t1.right(60)
-t1.end_fill()
 t.done()
